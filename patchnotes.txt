@@ -1,0 +1,28 @@
+patch notes 1.0:
+
+Chef:
+
+Double Crazy Rush:
+remove p attk dmg
+added abdomnial pain dmg  105/134/164/195/232/279  
+change range to 27M
+
+Spiritual Fountain Fragrance:
+change Soul to 50/80/110
+change Str to 51/81/111
+
+Spirit Drain:
+change max EP reduce by 25/35/35/40%
+change absorb to 300
+change cooldown to 1:00 min
+change duration to 6/8/12/16 sec 
+
+Gourmet Mastery
+change max lp to con 2/4/8/12/23/35
+change max ep to ene 3/5/10/19/33/55
+
+Rising Strength
+change str to 15/25/40/60
+add con 15/25/40/60
+
+
