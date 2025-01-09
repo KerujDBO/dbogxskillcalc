@@ -2,9 +2,9 @@
 
 class SkillCalculator
 {
-    private $_game_max_level = 70;
+    private $_game_max_level = 75;
     private $_default_lang = "eng";
-    private $_default_class = "Fighter";
+    private $_default_class = "Grand-Chef-Majin";
 
     private $_valid_langs = array(
         "eng" => "English",
