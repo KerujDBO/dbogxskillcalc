@@ -25,4 +25,18 @@ Rising Strength
 change str to 15/25/40/60
 add con 15/25/40/60
 
+------------------------------------------------------
+Poko:
+Increase Duration passive:
+add % sign to duration passive 
 
+Kami's Blitz:
+change cooldown to 8 min at all lvl
+change duration to 20 min at all lvl
+change affets to area around target on lvl 4 (10 alies, 8 m)
+
+Kami's Retreat
+change duration 6/8
+
+Kami's Awakening
+change speed buff to 45/55/65/75%
