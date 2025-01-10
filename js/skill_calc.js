@@ -206,7 +206,7 @@ function buildTree(tree_class, tree_container)
                         output += '<div class="currentpoints" id="currentpoints' + value + '" style="display: none;">0</div><div class="maxpoints" id="maxpoints' + value + '" style="display: none;">' + max_points + '</div>';
                     }
 
-                    if(!(value >= 99100 && value <= 99160)) { // don't include dragon king skills in url
+                    if(!(value >= 99100 && value <= 99165)) { // don't include dragon king skills in url
                         sd[value][URL_POS] = url_index;
                         url_index++;
                     } else {
